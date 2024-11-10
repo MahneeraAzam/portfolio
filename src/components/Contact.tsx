@@ -47,7 +47,7 @@ function Contact() {
             <form className="w-full lg:w-[50%] flex flex-col items-start">
               <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-4">
                 <input
-                  className="p-3 my-4 rounded-lg bg-[white] text-white placeholder: focus:outline-0"
+                  className="p-3 my-4 rounded-lg bg-[white] text-black placeholder: focus:outline-0"
                   type="text"
                   name="name"
                   id="name"
